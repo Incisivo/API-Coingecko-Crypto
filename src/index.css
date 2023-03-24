@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+table, td {
+    border: 1px solid
+}
+
+td {
+text-align: center;
+padding: 8px 12px
+}
+
+th{
+    background-color:black
+}
